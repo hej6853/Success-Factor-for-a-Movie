@@ -10,5 +10,8 @@ According to Forbes, an average of 708 films have been released over the past 20
 - Python
 - Tableau
 
+## Key Skills Learned
+
+
 ## License
 MIT © hej6853
