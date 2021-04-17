@@ -1,6 +1,6 @@
-# Success Factors for a Movie
 ![success factor for a movie](https://user-images.githubusercontent.com/79428102/115103025-8a5cfc00-9f03-11eb-9eca-a9e360c673f1.JPG)
 
+# Success Factors for a Movie
 This project is about exploring and visualizing data in business analytics projects. My team focused on exploring and wrangling data with ***Python*** to discover interesting analysis questions -- ***"Which factors leads to successful movie?"***. We paid special attention to data visualization methods using ***Tableau*** and their overall place in data science and business analytics.
 
 ## Motivation
