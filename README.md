@@ -14,4 +14,4 @@ According to Forbes, an average of 708 films have been released over the past 20
 
 
 ## License
-MIT © hej6853
+© hej6853
